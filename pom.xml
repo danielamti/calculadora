@@ -1,0 +1,21 @@
+class calculadora{
+  int num1;
+  int num2;
+  int resultado;
+
+  public void multiplicacao(){
+    system.out.println("calculadora");
+  numero1 = 10;
+  numero2 = 5;
+  resultado = ("numero1", * "numero2");
+  system.out.println("resultado: " + resultado);
+  }
+}
+  }
+
+  }
+}
+  // void addition() {
+  //     assertEquals(2, 1 + 1);
+  // }
+}
